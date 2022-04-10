@@ -1,0 +1,2 @@
+install python 
+install Pillow use command : pip install pillow
